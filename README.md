@@ -35,7 +35,7 @@ I have been learning React, Django, Django\_RestFramework, React Router, AI, Mac
 Contact & Community: </br>
 Website: Under Development </br>
 Email: msmajemusa4@gmail.com </br>
-[Twitter](https://www.x.com/Msadmaje) | [Facebook](https://www.facebook.com/msmaje) | [LinkedIn](https://www.linkedin.com/in/musa-adamu-58b797229) | [YouTube](https://www.youtube.com/channel/UCHllhejDeJ9BmqXZm7olA4g) | [Telegram](http://www.instagram.com/msmaje)
+[Twitter](https://www.x.com/Msadmaje) | [Facebook](https://www.facebook.com/msmaje) | [LinkedIn](https://www.linkedin.com/in/musa-adamu-58b797229) | [YouTube](https://www.youtube.com/channel/UCHllhejDeJ9BmqXZm7olA4g) | [instagram](http://www.instagram.com/msmaje) | [Telegram](https://web.telegram.org/a/)
 
 
 
