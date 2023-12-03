@@ -1,7 +1,6 @@
-Hi 
-![My profile Image](/images/logo.png)
+#Hi 
 
-My name is Musa Adamu
+#My name is Musa Adamu
 ===========================
 
 Web Developer (MERN Stack and Django/Django\_RestFrameWork Stack) and AI, Machine Learning, and Deep Learning with B.Eng and M.Eng Electrical/Electronics and Computer Engineering, respectively, from the Prestigious University of Maiduguri, Borno State. An Indigin of Yobe State, Potiskum Local Government
@@ -11,7 +10,7 @@ I have been learning React, Django, Django\_RestFramework, React Router, AI, Mac
 
 * 🌍  I'm based in Potiskum, Yobe State Nigeria
 * ✉️  You can contact me at [msmajemusa4@gmail.com](mailto:msmajemusa4@gmail.com)
-* 🧠  I'm learning I am currently learning and consolidating my skills at Arewa Data Science Academy. I am hoping to fully buttress my skills and make contributions to the field of AI. I am working hard to lay a solid foundation for my next academic pursuit (Phd)
+* 🧠  I'm learning and consolidating my skills at Arewa Data Science Academy. I am hoping to fully buttress my skills and make contributions to the field of AI. I am working hard to lay a solid foundation for my next academic pursuit (Phd)
 * 🤝  I'm open to collaborating on tech skills in MERN, Python, and Data Analysis
 * ⚡  Looking up for a smooth and collaborative learning atmosphere at ArewaDataScience for knowledge growth and development
 
