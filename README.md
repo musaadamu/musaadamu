@@ -8,6 +8,6 @@ I have been Learning React, Django, Django\_RestFramework, React Router, AI, Mac
 
 * 🌍  I'm based in Potiskum, Yobe State Nigeria
 * ✉️  You can contact me at [msmajemusa4@gmail.com](mailto:msmajemusa4@gmail.com)
-* 🧠  I'm learning I am currently learning and consolidating my skills at arewaDataScicne Academy. Hoping to fully buttress my skills and make contributions to the field of AI. Working hard to make a solid foundation for my next academic pursuit (Phd)
+* 🧠  I am currently learning and consolidating my skills at arewaDataScicne Academy. Hoping to fully buttress my skills and make contributions to the field of AI. Working hard to make a solid foundation for my next academic pursuit (Phd)
 * 🤝  I'm open to collaborating on Interested in learning now tech skills in MERN, Python, and Data Analysis
 * ⚡  Looking up for a smooth and collaborative learning atmosphere at ArewaDataScience for knowledge growth and development
