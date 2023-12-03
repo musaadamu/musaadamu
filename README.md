@@ -1,13 +1,14 @@
 # Hi 
+___
 <div styele={"color🚙; font-size:46px; text-align :center; "}>
-# <strong> My name is Musa Adamu </strong>strong>
+ <strong> My name is Musa Adamu </strong>
 </div>
 <div styele={"color🍏; font-size:46px; text-align :center; >
   Engineer | Lecturer | Full Stack Web Developer | Data Scientist | Machine Learning | & Deep Learning
 </div>
+___
 Web Developer (MERN Stack and Django/Django\_RestFrameWork Stack) and AI, Machine Learning, and Deep Learning with B.Eng and M.Eng Electrical/Electronics and Computer Engineering, respectively, from the Prestigious University of Maiduguri, Borno State. An Indigin of Yobe State, Potiskum Local Government
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+***
 I have been learning React, Django, Django\_RestFramework, React Router, AI, Machine Learning, and Deep Learning for over five (5) years now. I am quite happy to be consolidating my knowledge with fellows and mentors from Arewa DataScience in the current cohort (Cohort 2).
 
 * 🌍  I'm based in Potiskum, Yobe State Nigeria
