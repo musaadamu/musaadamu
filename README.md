@@ -1,4 +1,7 @@
-Hi 👋 My name is Musa Adamu
+Hi 
+![My profile Image](/images/logo.png)
+
+My name is Musa Adamu
 ===========================
 
 Web Developer (MERN Stack and Django/Django\_RestFrameWork Stack) and AI, Machine Learning, and Deep Learning with B.Eng and M.Eng Electrical/Electronics and Computer Engineering, respectively, from the Prestigious University of Maiduguri, Borno State. An Indigin of Yobe State, Potiskum Local Government
@@ -9,7 +12,7 @@ I have been learning React, Django, Django\_RestFramework, React Router, AI, Mac
 * 🌍  I'm based in Potiskum, Yobe State Nigeria
 * ✉️  You can contact me at [msmajemusa4@gmail.com](mailto:msmajemusa4@gmail.com)
 * 🧠  I'm learning I am currently learning and consolidating my skills at Arewa Data Science Academy. I am hoping to fully buttress my skills and make contributions to the field of AI. I am working hard to lay a solid foundation for my next academic pursuit (Phd)
-* 🤝  I'm open to collaborating on Interested in learning now tech skills in MERN, Python, and Data Analysis
+* 🤝  I'm open to collaborating on tech skills in MERN, Python, and Data Analysis
 * ⚡  Looking up for a smooth and collaborative learning atmosphere at ArewaDataScience for knowledge growth and development
 
 ### Skills
@@ -23,3 +26,11 @@ I have been learning React, Django, Django\_RestFramework, React Router, AI, Mac
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/msmaje" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/musaadamu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/msmaje" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/musa-adamu-58b797229" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/Msmaje" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Msadmaje" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+
+# LinkedIn
+[LinkedIn]([http://github.com](https://www.linkedin.com/in/musa-adamu-58b797229)https://www.linkedin.com/in/musa-adamu-58b797229)
+
+# Stackoverflow
+[Stackoverflow]([https://www.stackoverflow.com/users/Msmaje])
+
+
