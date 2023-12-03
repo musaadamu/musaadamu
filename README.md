@@ -1,6 +1,6 @@
-#Hi 
+# Hi 
 
-#My name is Musa Adamu
+# My name is Musa Adamu
 ===========================
 
 Web Developer (MERN Stack and Django/Django\_RestFrameWork Stack) and AI, Machine Learning, and Deep Learning with B.Eng and M.Eng Electrical/Electronics and Computer Engineering, respectively, from the Prestigious University of Maiduguri, Borno State. An Indigin of Yobe State, Potiskum Local Government
