@@ -1,8 +1,10 @@
 # Hi 
-
-# My name is Musa Adamu
-===========================
-
+<div styele={"color🚙; font-size:46px; text-align :center; "}>
+# <strong> My name is Musa Adamu </strong>strong>
+</div>
+<div styele={"color🍏; font-size:46px; text-align :center; >
+  Engineer | Lecturer | Full Stack Web Developer | Data Scientist | Machine Learning | & Deep Learning
+</div>
 Web Developer (MERN Stack and Django/Django\_RestFrameWork Stack) and AI, Machine Learning, and Deep Learning with B.Eng and M.Eng Electrical/Electronics and Computer Engineering, respectively, from the Prestigious University of Maiduguri, Borno State. An Indigin of Yobe State, Potiskum Local Government
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -33,7 +35,7 @@ I have been learning React, Django, Django\_RestFramework, React Router, AI, Mac
 [Stackoverflow](https://www.stackoverflow.com/users/Msmaje)
 
 Contact & Community: </br>
-Website: Under Development </br>
+[Website] (https://github.com/musaadamu) </br>
 Email: msmajemusa4@gmail.com </br>
 [Twitter](https://www.x.com/Msadmaje) | [Facebook](https://www.facebook.com/msmaje) | [LinkedIn](https://www.linkedin.com/in/musa-adamu-58b797229) | [YouTube](https://www.youtube.com/channel/UCHllhejDeJ9BmqXZm7olA4g) | [instagram](http://www.instagram.com/msmaje) | [Telegram](https://web.telegram.org/a/)
 
