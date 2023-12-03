@@ -44,7 +44,7 @@ I have been learning React, Django, Django\_RestFramework, React Router, AI, Mac
 [Stackoverflow](https://www.stackoverflow.com/users/Msmaje)
 
 Contact & Community: </br>
-[Website] (https://github.com/musaadamu) </br>
+[Website](https://github.com/musaadamu) </br>
 Email: msmajemusa4@gmail.com </br>
 [Twitter](https://www.x.com/Msadmaje) | [Facebook](https://www.facebook.com/msmaje) | [LinkedIn](https://www.linkedin.com/in/musa-adamu-58b797229) | [YouTube](https://www.youtube.com/channel/UCHllhejDeJ9BmqXZm7olA4g) | [instagram](http://www.instagram.com/msmaje) | [Telegram](https://web.telegram.org/a/)
 
