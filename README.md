@@ -5,10 +5,10 @@
 ***
 
 <div styele={"color🚙; font-size:46px; text-align :center; "}>
- <strong> My name is Musa Adamu </strong>
+ <strong styele={"color🚙; font-size:46px; text-align :center; "> My name is Musa Adamu </strong>
 </div>
 <div styele={"color🍏; font-size:46px; text-align :center; >
-  <strong> Engineer </strong>| <strong> Lecturer </strong> | <strong> Full Stack Web Developer </strong> | <strong> Data Scientist </strong> | <strong>Machine Learning </strong> | <strong> & Deep Learning </strong>
+  <strong> Engineer </strong>| <strong> Lecturer </strong> | <strong> Full Stack Web Developer </strong> | <strong> Data Scientist </strong> | <strong>Machine Learning </strong> | <strong> & Deep Learning Practitioner </strong>
 </div>
 
 ***
