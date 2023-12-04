@@ -3,7 +3,7 @@
 $${\color{green}I \space am \space open \space to \space learning \space and \space growing \space in \space line \space with \space the \space evolving \space world \space of \space technology. }$$
 $${\color{grey} \space With \space collaboration \space and \space understanding, \space great \space things \space can \space be \space achieved.}$$ </br>
 ***
- $${\color{orange}My  \space name \space is: \space \color{lightblue}Musa \space \color{green}Adamu}$$ 
+ ### $${\color{orange}My  \space name \space is: \space \color{lightblue}Musa \space \color{green}Adamu}$$ 
 ***
  $${\color{grey} \space Django, \space Django \space Rest-framework,  \space MongoDB,  \space Express, \space React, \space Node,  \space and \space React-Router }$$
  <strong> Engineer </strong>| <strong> Lecturer </strong> | <strong> Full Stack Web Developer </strong> | <strong> Data Scientist </strong> | <strong>Machine Learning </strong> | <strong> & Deep Learning Practitioner 
