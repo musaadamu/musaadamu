@@ -5,7 +5,7 @@ $${\color{blue}I \space am \space open \space to \space learning \space and \spa
 ***
 
 
- # $${\color{green} My  \space name \space is \color{darkbrown} Musa \space \color{darkgreen}Adamu}$$  
+ # $${\color{green} My  \space name \space is: \space \color{darkbrown} Musa \space \color{darkgreen}Adamu}$$  
 
 <div styele={"color🍏; font-size:46px; text-align :center; >
   <strong> Engineer </strong>| <strong> Lecturer </strong> | <strong> Full Stack Web Developer </strong> | <strong> Data Scientist </strong> | <strong>Machine Learning </strong> | <strong> & Deep Learning Practitioner </strong>
