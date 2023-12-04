@@ -7,7 +7,7 @@ $${\color{blue} \space With \space collaboration \space and \space understanding
 ***
 
 
- # $${\color{red} My  \space name \space is: \space \color{lightbrown} Musa \space \color{green}Adamu}$$  
+ # $${\color{red}My  \space name \space is: \space \color{lightblue}Musa \space \color{green}Adamu}$$  
  $${\color{blue} \space With \space collaboration \space and \space understanding, \space great \space things \space can \space be \space achieved.}$$
 
 
