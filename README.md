@@ -1,13 +1,15 @@
 # $${\color{red}Welcome \space \color{lightblue}To My\space \color{lightgreen}Github Page}$$ 
 
-$${\color{blue}I \space am \space open \space to \space learning \space and \space growing \space in \space line \space with \space the \space evolving \space world \space of \space technology. \space With \space collaboration \space and \space understanding, \space }$$
-$${\color{blue}great \space things \space can \space be \space achieved.}$$
+$${\color{blue}I \space am \space open \space to \space learning \space and \space growing \space in \space line \space with \space the \space evolving \space world \space of \space technology. }$$
+$${\color{blue} \space With \space collaboration \space and \space understanding, \space great \space things \space can \space be \space achieved.}$$
 
 
 ***
 
 
  # $${\color{green} My  \space name \space is: \space \color{darkbrown} Musa \space \color{darkgreen}Adamu}$$  
+ $${\color{blue} \space With \space collaboration \space and \space understanding, \space great \space things \space can \space be \space achieved.}$$
+
 
 <div styele={"color🍏; font-size:46px; text-align :center; >
   <strong> Engineer </strong>| <strong> Lecturer </strong> | <strong> Full Stack Web Developer </strong> | <strong> Data Scientist </strong> | <strong>Machine Learning </strong> | <strong> & Deep Learning Practitioner </strong>
