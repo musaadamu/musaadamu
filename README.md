@@ -1,6 +1,6 @@
-$${\color{red}Welcome \space \color{lightblue}To My\space \color{lightgreen}Github Page}$$ 
+# $${\color{red}Welcome \space \color{lightblue}To My\space \color{lightgreen}Github Page}$$ 
 
-### I am open to learning and growing in line with the evolving world of technology. With collaboration and understanding, great things can be achieved.
+###  $${\color{lightblue}I am open to learning and growing in line with the evolving world of technology. With collaboration and understanding, great things can be achieved.}$$
 
 ***
 
