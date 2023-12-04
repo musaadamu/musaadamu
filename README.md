@@ -1,14 +1,11 @@
 # $${\color{red}Welcome \space \color{lightblue}To \space My\space \color{lightgreen}Github \space Page}$$ 
 
 ## $${\color{green}I \space am \space open \space to \space learning \space and \space growing \space in \space line \space with \space the \space evolving \space world \space of \space technology. }$$
-## $${\color{grey} \space With \space collaboration \space and \space understanding, \space great \space things \space can \space be \space achieved.}$$
+## $${\color{grey} \space With \space collaboration \space and \space understanding, \space great \space things \space can \space be \space achieved.}$$ </br>
 
 
+ # $${\color{orange}My  \space name \space is: \space \color{lightblue}Musa \space \color{green}Adamu}$$  </br> 
 ***
-
-
- # $${\color{orange}My  \space name \space is: \space \color{lightblue}Musa \space \color{green}Adamu}$$  </br> </br>
-
  
  ### $${\color{grey} \space Django, \space Django \space Rest-framework,  \space MongoDB,  \space Express, \space React, \space Node,  \space and \space React-Router }$$
 
