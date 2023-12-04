@@ -1,6 +1,8 @@
 # $${\color{red}Welcome \space \color{lightblue}To My\space \color{lightgreen}Github Page}$$ 
 
-$${\color{blue}I \space am \space open \space to \space learning \space and \space growing \space in \space line \space with \space the \space evolving \space world \space of \space technology. \space With \space collaboration \space and \space understanding, \space </br> great \space things \space can \space be \space achieved.}$$
+$${\color{blue}I \space am \space open \space to \space learning \space and \space growing \space in \space line \space with \space the \space evolving \space world \space of \space technology. \space With \space collaboration \space and \space understanding, \space }$$
+$${\color{blue}great \space things \space can \space be \space achieved.}$$
+
 
 ***
 
