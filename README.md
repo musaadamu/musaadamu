@@ -1,4 +1,4 @@
-# $${\color{darkred}Welcome \space \color{darktblue}To \space My\space \color{darkgreen}Github \space Page}$$ 
+# $${\color{darkred}Welcome \space \color{lightblue}To \space My\space \color{darkgreen}Github \space Page}$$ 
 
 $${\color{blue}I \space am \space open \space to \space learning \space and \space growing \space in \space line \space with \space the \space evolving \space world \space of \space technology. }$$
 $${\color{blue} \space With \space collaboration \space and \space understanding, \space great \space things \space can \space be \space achieved.}$$
@@ -7,7 +7,7 @@ $${\color{blue} \space With \space collaboration \space and \space understanding
 ***
 
 
- # $${\color{green} My  \space name \space is: \space \color{darkbrown} Musa \space \color{darkgreen}Adamu}$$  
+ # $${\color{green} My  \space name \space is: \space \color{brown} Musa \space \color{green}Adamu}$$  
  $${\color{blue} \space With \space collaboration \space and \space understanding, \space great \space things \space can \space be \space achieved.}$$
 
 
