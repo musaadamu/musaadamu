@@ -8,7 +8,7 @@
 
 
  # $${\color{red}My  \space name \space is: \space \color{lightblue}Musa \space \color{green}Adamu}$$  
- ## $${\color{blue} \space Djano_Rest-framework \space Django \space and \space Express, \space great \space MongoDB \space can \space React \space React-Router \space Node}$$
+ ## $${\color{grey} \space Django \space Djano_Rest-framework  \space MongoDB  \space Express \spaceReact \space Node \space React-Router }$$
 
 
 <div styele={"color🍏; font-size:46px; text-align :center; >
