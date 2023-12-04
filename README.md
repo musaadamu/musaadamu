@@ -1,6 +1,6 @@
 # $${\color{red}Welcome \space \color{lightblue}To My\space \color{lightgreen}Github Page}$$ 
 
-$${\color{blue}I am open to learning and growing in line with the evolving world of technology. With collaboration and understanding, great things can be achieved.}$$
+$${\color{blue}I \space am \space open \space to \space learning \space and \space growing \space in \space line \space with \space the \space evolving \space world \space of \space technology. \space With \space collaboration \space and \space understanding, \space great \space things \space can \space be \space achieved.}$$
 
 ***
 
