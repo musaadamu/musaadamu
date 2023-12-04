@@ -4,9 +4,9 @@ $${\color{blue}I \space am \space open \space to \space learning \space and \spa
 
 ***
 
-<div styele={"color🚙; font-size:46px; text-align :center; "}>
- <strong styele={"color🚙; font-size:46px; text-align :center; "> # $${\color{green} My  \space name \space is \color{darkbrown} Musa \space \color{darkgreen}Adamu}$$  </strong>
-</div>
+
+ # $${\color{green} My  \space name \space is \color{darkbrown} Musa \space \color{darkgreen}Adamu}$$  
+
 <div styele={"color🍏; font-size:46px; text-align :center; >
   <strong> Engineer </strong>| <strong> Lecturer </strong> | <strong> Full Stack Web Developer </strong> | <strong> Data Scientist </strong> | <strong>Machine Learning </strong> | <strong> & Deep Learning Practitioner </strong>
 </div>
