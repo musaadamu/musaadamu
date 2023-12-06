@@ -1,4 +1,11 @@
-## $${\color{red}Welcome \space \color{lightblue}To \space My\space \color{lightgreen}Github \space Page}$$ 
+## ```diff
+- Welcome to my GitHub Page red
++ Welcome to my Github Page green
+! Welcome to my Github Page orange
+# Welcome to my Github Page gray
+@@  Welcome to my Github Page (and bold)@@
+```
+$${\color{red}Welcome \space \color{lightblue}To \space My\space \color{lightgreen}Github \space Page}$$ 
 ***
 ### $${\color{green}I \space am \space open \space to \space learning \space and \space growing \space in \space line \space with \space the \space evolving \space world \space of \space technology. }$$
 $${\color{grey} \space With \space collaboration \space and \space understanding, \space great \space things \space can \space be \space achieved.}$$ </br>
